@@ -14,3 +14,5 @@
   - v2 of initial keyboard layout, arrow keys moved to first layer, extra CMD+Q button removed
 - dz60_jlacsa_v3
   - v3 of keyboard layout, media keys added to second layer, minor tweaks
+- dz60_jlacsa_v4
+  - v4 of keyboard layout, moved media keys to more comfortable position
