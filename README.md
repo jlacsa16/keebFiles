@@ -16,3 +16,8 @@
   - v3 of keyboard layout, media keys added to second layer, minor tweaks
 - dz60_jlacsa_v4
   - v4 of keyboard layout, moved media keys to more comfortable position
+
+#### kbd75v2_jlacsa - My 75% keyboard layout
+
+- kbd75v2_jlacsa_v0
+  - Rough draft layout, finish later
