@@ -21,3 +21,7 @@
 
 - kbd75v2_jlacsa_v0
   - Rough draft layout, finish later
+- kbd75v2_jlacsa_v1
+  - First layout uploaded to keyboard
+- kbd75v2_jlacsa_v2
+  - Updates made to v1
