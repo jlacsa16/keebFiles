@@ -24,4 +24,6 @@
 - kbd75v2_jlacsa_v1
   - First layout uploaded to keyboard
 - kbd75v2_jlacsa_v2
-  - Updates made to v1
+  - Updates made to v1, added multitasking keys
+- kbd75v2_jlacsa_v3
+  - Switched two multitasking keys
